@@ -29,7 +29,7 @@ const projects = [
   {
     name: 'Vacio',
     description:
-      'Web para el influencer y corredor de ultra distancia, Dualcillo -en construcción-',
+      'Dualcillo - Web oficial (en construcción) Desarrollo de la web para Dualcillo, influencer y corredor de ultra distancia. El sitio incluirá contenido exclusivo, actualizaciones de sus competencias y un espacio para interactuar con su comunidad.',
     image: vacio, // Usa la ruta desde public
     stack: ['Next', 'JS', 'Tailwind'],
     sourceCode: 'https://github.com/PascuFCalvo/VacioNextJS',
@@ -38,7 +38,7 @@ const projects = [
   {
     name: 'StreamCash',
     description:
-      'Proyecto final del Bootcamp, simula una plataforma para gestionar publicidad con Streamers',
+      'Creación de una plataforma que conecta marcas con streamers para gestionar campañas publicitarias, optimizando la selección y análisis de resultados en tiempo real.',
     image: final,
     stack: ['React', 'Redux', 'CSS'],
     sourceCode: 'https://github.com/PascuFCalvo/FInal_Geeks_23',
@@ -47,7 +47,7 @@ const projects = [
   {
     name: 'Quiz game',
     description:
-      'Modulo para crear un juego de preguntas y respuesta con almacenamient de estado ',
+      'Desarrollo de un módulo que permite crear un juego de preguntas y respuestas con almacenamiento de estado, permitiendo guardar el progreso del jugador y sus respuestas para continuar en cualquier momento.',
     image: dbquiz,
     stack: ['Redux', 'TS', 'React'],
     sourceCode: 'https://github.com/PascuFCalvo/DBQuiz',
@@ -56,7 +56,7 @@ const projects = [
   {
     name: 'Analizador de listas para AOS',
     description:
-      'Analiza listas para el juego de tablero, AGE OF SIGMAR y hace una estimación de lo poderosa o débil que es',
+      'Desarrollo de un módulo que analiza listas de ejército para el juego de tablero Age of Sigmar, evaluando su composición y realizando una estimación de su fortaleza o debilidad en función de factores clave como unidades, sinergias y estrategias.',
     image: analizer, // Corrige "image" a "image"
     stack: ['JS', 'CSS', 'HTML'],
     sourceCode: 'https://github.com/PascuFCalvo/listAnalizer',
@@ -64,7 +64,8 @@ const projects = [
   },
   {
     name: 'Calculadora de daño',
-    description: 'Calculadora de daño para el juego AGE OF SIGMAR',
+    description:
+      'Desarrollo de una calculadora que permite a los jugadores de Age of Sigmar estimar el daño potencial de sus unidades, considerando factores como ataques, rend y salvación. La herramienta facilita el cálculo rápido durante las partidas.',
     image: aosCalculator,
     stack: ['JS', 'CSS', 'HTML'],
     sourceCode: 'https://github.com/PascuFCalvo/listAnalizer',
@@ -73,7 +74,7 @@ const projects = [
   {
     name: 'HeroCults JS',
     description:
-      'Parodia del juego HeroQuest, que salio en españa bajo el nombre de HeroCults -en construcción-',
+      'Desarrollo de una parodia del clásico juego HeroQuest, lanzada bajo el nombre HeroCults. Esta versión humorística mantiene la esencia del original pero con un giro satírico en personajes, misiones y ambientación. (En construcción).',
     image: herocults,
     stack: ['JS', 'CSS', 'React'],
     sourceCode: 'https://github.com/PascuFCalvo/herocultsGame',
