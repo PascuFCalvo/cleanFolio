@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cleanFolio/static/css/main.3e85a240.chunk.css",
+    "main.js": "/cleanFolio/static/js/main.61bdc25d.chunk.js",
+    "main.js.map": "/cleanFolio/static/js/main.61bdc25d.chunk.js.map",
+    "runtime-main.js": "/cleanFolio/static/js/runtime-main.5d74ed2b.js",
+    "runtime-main.js.map": "/cleanFolio/static/js/runtime-main.5d74ed2b.js.map",
+    "static/js/2.f5288c40.chunk.js": "/cleanFolio/static/js/2.f5288c40.chunk.js",
+    "static/js/2.f5288c40.chunk.js.map": "/cleanFolio/static/js/2.f5288c40.chunk.js.map",
+    "index.html": "/cleanFolio/index.html",
+    "static/css/main.3e85a240.chunk.css.map": "/cleanFolio/static/css/main.3e85a240.chunk.css.map",
+    "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/cleanFolio/static/js/2.f5288c40.chunk.js.LICENSE.txt",
+    "static/media/analizer.b4ef8774.jpg": "/cleanFolio/static/media/analizer.b4ef8774.jpg",
+    "static/media/aos-calculator.06e9bbe6.jpg": "/cleanFolio/static/media/aos-calculator.06e9bbe6.jpg",
+    "static/media/dbquiz.aaf69db6.jpg": "/cleanFolio/static/media/dbquiz.aaf69db6.jpg",
+    "static/media/final.700d012b.jpg": "/cleanFolio/static/media/final.700d012b.jpg",
+    "static/media/herocults.5059d22f.jpg": "/cleanFolio/static/media/herocults.5059d22f.jpg",
+    "static/media/vacio.0583b57a.jpg": "/cleanFolio/static/media/vacio.0583b57a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d74ed2b.js",
+    "static/js/2.f5288c40.chunk.js",
+    "static/css/main.3e85a240.chunk.css",
+    "static/js/main.61bdc25d.chunk.js"
+  ]
+}
