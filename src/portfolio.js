@@ -1,9 +1,9 @@
 import vacio from './images/vacio.jpg'
 import final from './images/final.jpg'
 import dbquiz from './images/dbquiz.jpg'
-import analizer from './images/analizer.jpg'
+import starwars from './images/starwars.jpg'
 import aosCalculator from './images/aos-calculator.jpg'
-import herocults from './images/herocults.jpg'
+import onboarding from './images/onboarding.jpg'
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -36,6 +36,24 @@ const projects = [
     livePreview: 'https://vacio-next-js.vercel.app',
   },
   {
+    name: 'Star Wars scroll shooter',
+    description:
+      'Juego de "navecitas" en scroll lateral, desarrollado todo a base de HTML, JS y animaciones CSS',
+    image: starwars, // Usa la ruta desde public
+    stack: ['CSS', 'JS', 'HTML'],
+    sourceCode: 'https://github.com/PascuFCalvo/star-wars-game',
+    livePreview: 'https://star-wars-game-alpha.vercel.app',
+  },
+  {
+    name: 'Plataforma de onboarding para empleados',
+    description:
+      'Gestiona la formacion de tus empleados, asignales cursos, documentación, gestión de firma electrónica y mucho mas.',
+    image: onboarding, // Usa la ruta desde public
+    stack: ['NODE', 'REACT', 'MySQL'],
+    sourceCode: 'https://github.com/PascuFCalvo/obnoarding-module',
+    livePreview: 'no disponible',
+  },
+  {
     name: 'StreamCash',
     description:
       'Creación de una plataforma que conecta marcas con streamers para gestionar campañas publicitarias, optimizando la selección y análisis de resultados en tiempo real.',
@@ -54,15 +72,6 @@ const projects = [
     livePreview: 'https://db-quiz-seven.vercel.app',
   },
   {
-    name: 'Analizador de listas para AOS',
-    description:
-      'Desarrollo de un módulo que analiza listas de ejército para el juego de tablero Age of Sigmar, evaluando su composición y realizando una estimación de su fortaleza o debilidad en función de factores clave como unidades, sinergias y estrategias.',
-    image: analizer, // Corrige "image" a "image"
-    stack: ['JS', 'CSS', 'HTML'],
-    sourceCode: 'https://github.com/PascuFCalvo/listAnalizer',
-    livePreview: 'https://list-analizer.vercel.app',
-  },
-  {
     name: 'Calculadora de daño',
     description:
       'Desarrollo de una calculadora que permite a los jugadores de Age of Sigmar estimar el daño potencial de sus unidades, considerando factores como ataques, rend y salvación. La herramienta facilita el cálculo rápido durante las partidas.',
@@ -70,15 +79,6 @@ const projects = [
     stack: ['JS', 'CSS', 'HTML'],
     sourceCode: 'https://github.com/PascuFCalvo/listAnalizer',
     livePreview: 'https://list-analizer.vercel.app',
-  },
-  {
-    name: 'HeroCults JS',
-    description:
-      'Desarrollo de una parodia del clásico juego HeroQuest, lanzada bajo el nombre HeroCults. Esta versión humorística mantiene la esencia del original pero con un giro satírico en personajes, misiones y ambientación. (En construcción).',
-    image: herocults,
-    stack: ['JS', 'CSS', 'React'],
-    sourceCode: 'https://github.com/PascuFCalvo/herocultsGame',
-    livePreview: 'https://herocults-game.vercel.app',
   },
 ]
 
